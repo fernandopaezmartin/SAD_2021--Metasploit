@@ -6,6 +6,6 @@
 - Curso: 2ºB - A.S.I.R.
 - IES Punta del Verde
 
-[logo metasploit](Metasploit.png)
+![alt Metalogo](Metasploit.png)
 
-Haremos una busqueda de información sobre esta herramienta que permite ejecutar y desarrollar exploits contra sistemas objetivos. La primera opción antes de usar la propia herramienta va a consistir en recopilar información sobre el sistema objetivo.
+Haremos una busqueda de información sobre esta herramienta que permite ejecutar y desarrollar exploits contra sistemas objetivos. La primera opción antes de usar la propia herramienta va a consistir en recopilar información sobre el sistema objetivo. A partir de los datos obtenidos, se tomarán las decisiones acordes y los pasos a seguir en etapas posteriores.
