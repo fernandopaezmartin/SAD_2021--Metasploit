@@ -116,3 +116,9 @@ Como ejemplo ejecutaremos el comando **screenshot** y nos hará una captura de p
 Mostramos la captura realizada:
 
 ![screenshot2](https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit/blob/main/imagenes/16.png)
+
+
+# Video demostrativo#
+
+[Práctica](https://youtu.be/G-YtjZlQURI)
+
