@@ -31,3 +31,7 @@ Se configuran en un entorno llamado "Red Interna" y dentro del mismo rangode red
 ## Ejecución de escaner de red Nmap
 
 Con esta herramienta descubriremos puertos y servicios abiertos en la máquina objetivo.
+
+## Metasploit Framework (MSF) 
+
+En la primera fase ejutaremos este framework para buscar exploits usar y deescargar payloads y ejecutarlos.
