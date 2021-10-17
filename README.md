@@ -119,4 +119,4 @@ Mostramos la captura realizada:
 
 
 # Video demostrativo#
-[![Video demostrativo](https://img.youtube.com/vi/G-YtjZlQURI/maxresdefault.jpg)](https://youtu.be/G-YtjZlQURI)
+[![Video demostrativo](https://img.youtube.com/vi/YtjZlQURI/maxresdefault.jpg)](https://youtu.be/G-YtjZlQURI)
