@@ -20,3 +20,14 @@ La tarea a desarrollar irá enfocada a la vulnerabilidad catalogada en la base d
 [MS17-0144 - Eternalblue](https://www.cvedetails.com/cve/CVE-2017-0144/)
 
 EternalBlue explota una vulnerabilidad en protocolo Server Message Block (SMB). Esta vulnerabilidad se dio porque el servidor SMB v1 (SMBv1) de Microsoft Windows manejaba mal paquetes especialmente diseñados por atacantes remotos, permitiendo ejecutar código sobre el equipo a que ataca.
+
+## Configuración de las máquinas virtuales
+
+Se configuran en un entorno llamado "Red Interna" y dentro del mismo rangode red:
+
+- Kali con 10.0.2.10/8
+- Windows con 10.0.2.11/8
+
+## Ejecución de escaner de red Nmap
+
+Con esta herramienta descubriremos puertos y servicios abiertos en la máquina objetivo.
