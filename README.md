@@ -32,6 +32,12 @@ Se configuran en un entorno llamado "Red Interna" y dentro del mismo rangode red
 - Windows con 10.0.2.11/8
   
   ![Ip Windows](https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit/blob/main/imagenes/2.png)
+  
+-Comprobamos que las dos máquinas tienen conectividad entre si haciendo ping entre ellas:
+
+ ![Ping Windows](https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit/blob/main/imagenes/3.png)
+ ![Ping Kali](https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit/blob/main/imagenes/4.png)
+
 
 ## Ejecución de escaner de red Nmap
 
