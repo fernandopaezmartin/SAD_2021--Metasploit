@@ -118,5 +118,5 @@ Mostramos la captura realizada:
 ![screenshot2](https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit/blob/main/imagenes/16.png)
 
 
-# Video demostrativo#
-[![Video demostrativo](https://img.youtube.com/vi/YtjZlQURI/maxresdefault.jpg)](https://youtu.be/G-YtjZlQURI)
+# Video demostrativo 
+[![Video demostrativo](https://img.youtube.com/vi/G-YtjZlQURI/hqdefault.jpg)](https://youtu.be/G-YtjZlQURI)
