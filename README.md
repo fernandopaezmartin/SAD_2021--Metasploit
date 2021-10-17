@@ -51,7 +51,7 @@ De los resultados elegiremos la primera opción:
 
 *use 0*
 
-Nos duvuelve:
+Nos devuelve:
 
 *No payload configured, defaulting to windows/x64/meterpreter/reverse_tcp*
 
@@ -77,3 +77,6 @@ Le indicamos que se ejecute con *run*
 
 
 Podemos ver las distintas opciones que nos ofrece este exploit con *options*
+
+
+Como ejemplo ejecutaremos el comando *screenshot* y nos hará una captura de pantalla de la máquina remota.
