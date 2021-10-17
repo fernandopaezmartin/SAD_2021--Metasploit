@@ -26,6 +26,11 @@ EternalBlue explota una vulnerabilidad en protocolo Server Message Block (SMB). 
 Se configuran en un entorno llamado "Red Interna" y dentro del mismo rangode red:
 
 - Kali con 10.0.2.10/8
+
+ 	![Ip Kali](https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit/blob/main/imagenes/1.png)
+
+
+
 - Windows con 10.0.2.11/8
 
 ## Ejecución de escaner de red Nmap
