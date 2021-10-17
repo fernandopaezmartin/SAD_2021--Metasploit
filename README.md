@@ -44,17 +44,25 @@ Se configuran en un entorno llamado "Red Interna" y dentro del mismo rangode red
 
 Con esta herramienta descubriremos puertos y servicios abiertos en la máquina objetivo.
 
+ 	![Nmap](https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit/blob/main/imagenes/7.png)
+
+
 ## Metasploit Framework (MSF) 
 
 En la primera fase ejecutaremos este framework para buscar exploits usar y deescargar payloads y ejecutarlos.
 
 *msfconsole*
-
+ 	
+  ![msfconsole](https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit/blob/main/imagenes/5.png)
 
 
 Usaremos su buscador para encontrar el exploit:
 
 *search eternalblue*
+
+  ![search msf](https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit/blob/main/imagenes/6.png)
+
+
 
 
 De los resultados elegiremos la primera opción:
