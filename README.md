@@ -119,4 +119,4 @@ Mostramos la captura realizada:
 
 
 # Video demostrativo#
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G-YtjZlQURI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video demostrativo](https://img.youtube.com/vi/G-YtjZlQURI/maxresdefault.jpg)](https://youtu.be/G-YtjZlQURI)
