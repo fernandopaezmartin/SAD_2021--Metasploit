@@ -17,6 +17,6 @@ Haremos una busqueda de información sobre esta herramienta que permite ejecutar
 
 La tarea a desarrollar irá enfocada a la vulnerabilidad catalogada en la base de datos de vulnerabilidades CVE como:
 
-[MS17-010 - Eternalblue](https://www.cvedetails.com/cve/CVE-2017-0144/)
+[MS17-0144 - Eternalblue](https://www.cvedetails.com/cve/CVE-2017-0144/)
 
 EternalBlue explota una vulnerabilidad en protocolo Server Message Block (SMB). Esta vulnerabilidad se dio porque el servidor SMB v1 (SMBv1) de Microsoft Windows manejaba mal paquetes especialmente diseñados por atacantes remotos, permitiendo ejecutar código sobre el equipo a que ataca.
