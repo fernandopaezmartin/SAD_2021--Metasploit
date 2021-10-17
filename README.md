@@ -47,9 +47,7 @@ Usaremos su buscador para encontrar el exploit:
 
 De los resultados elegiremos la primera opción:
 
-N   Name                                      Disclosure      Date     Rank   Check    Description
--  ____                                        -- -- -- --      -- --    -- --  -- -- -- -- -- 
-0  exploit/windows/smb/ms17_010_eternalblue  2017-03-14       average  Yes    MS17-010 EternalBlue SMB Remote Windows Kernel Pool Corruption
+**0  exploit/windows/smb/ms17_010_eternalblue  2017-03-14       average  Yes    MS17-010 EternalBlue SMB Remote Windows Kernel Pool Corruption**
 
 *use 0*
 
