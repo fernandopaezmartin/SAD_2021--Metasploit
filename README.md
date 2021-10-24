@@ -2,7 +2,7 @@
 # Video demostrativo 
 [![Video demostrativo](https://img.youtube.com/vi/pzfVFRJ47_4/hqdefault.jpg)](https://youtu.be/pzfVFRJ47_4)
 
-# SAD_2021--Vulnerabilidades---Metasploit
+# SAD_2021--Metasploit
 
 ## Práctica del módulo de ***Seguridad y Alta Disponibilidad***
 
